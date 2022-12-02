@@ -1,2 +1,2 @@
-# Canteen-Management-System-Using-Php
-Canteen Management System Using Php
+# Mess Managment system using PHP
+
